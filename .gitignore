@@ -1,0 +1,95 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+OBJ
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Executables
+*.out
+hrp2/cfg/cfg/cfg
+hrp2/sdk/bin
+hrp2/sdk/OBJ
+hrp2/sdk/build.log
+hrp2/sdk/app
+hrp2/sdk/hrp2
+hrp2/sdk/uImage
+
+# for emacs:
+*~
+\#*
+.\#*
+
+# for vi:
+*.swp
+
+# for svn
+.svn
+
+# for ETrobo
+x86
+obj
+Debug
+UnitTest
+Release_RechargeableBattery
+*.pdb
+*.mdb
+*.a
+
+# for Xamarin Studio
+*.userprefs
+bin/Release/*.xml
+
+# for Visual Studio
+*.suo
+UpgradeLog*.htm
+browse.VC.db
+
+# for common
+*.bak
+
+# for Doxygen
+*.tmp
+~$$*.*
+*.~*
+
+# for Visual Studio Code
+Code
+
+# 0.8.x -
+.vscode
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
