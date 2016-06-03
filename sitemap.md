@@ -35,7 +35,7 @@
 1. [ETロボコン2016コンセプトシート](docs/conceptSheets)
 1. [会場審査員アピールシート](docs/20112101.pptx)
 1. [本番コース(1/2縮尺PDFデータ)](docs/20112116.pdf)
-1. [【技術教育】シラバス、事前準備用資料](docs/educations/model)
+1. [【技術教育】シラバス、事前準備用資料](docs/educations/models)
 1. [【技術教育】開発環境・要素技術セミナー](docs/seminar)
 1. [【技術教育】「開発プロセスに沿って開発する」-1](docs/educations/process1)
 1. [【技術教育】「開発プロセスに沿って開発する」-2](docs/educations/process2)
