@@ -6,7 +6,7 @@
 ### [競技規約](http://www.etrobo.jp/2016/gaiyou/kiyaku.php)
 * デベロッパー部門
   * [プライマリークラス 1.0.0](rules/2016_developer_primary_1.0.0.pdf)
-  * アドバンストクラス]
+  * アドバンストクラス
     * [ポイント方式係数表 1.0.0](rules/2016_developer_advanced_point_1.0.0.pdf)
     * [競技規約 1.0.1](rules/2016_developer_advanced_kyogi_1.0.1.pdf)
 * [イノベーター部門競技規約 1.0.0](rules/2016_inno_kyogi_1.0.0.pdf)
