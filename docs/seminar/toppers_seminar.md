@@ -4,5 +4,5 @@
 * 資料
  * ソフトウェアプラットフォームとRTOSの基礎
     * [配布物](http://dev.toppers.jp/trac_user/ev3pf/attachment/wiki/seminar_text/SPF%E3%81%A8RTOS%E3%81%AE%E5%9F%BA%E7%A4%8E.pdf)
-    * [リポジトリにあるファイル](./seminar/SPF%E3%81%A8RTOS%E3%81%AE%E5%9F%BA%E7%A4%8E.pdf)
- * [統合仕様書](/masanori1102/ev3rt/blob/master/ngki_spec-171.pdf)
+    * [リポジトリにあるファイル](./SPF%E3%81%A8RTOS%E3%81%AE%E5%9F%BA%E7%A4%8E.pdf)
+ * [統合仕様書](https://github.com//masanori1102/ev3rt/blob/master/ngki_spec-171.pdf)
